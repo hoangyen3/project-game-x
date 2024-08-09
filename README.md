@@ -1,1 +1,1 @@
-Đây là project game X
+# project-game-x
